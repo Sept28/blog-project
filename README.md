@@ -1,2 +1,2 @@
 # blog-project
-Blog with sanctum authentication
+Blog project with sanctum authentication
